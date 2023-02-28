@@ -5,6 +5,10 @@ I like getting myself into all sorts of fields of computing, from web developmen
 - 👉 Basic Cybersecurity through <a href="https://www.codepath.org/">CodePath</a> <br>
 - 👉 Working towards Bachelor's Degree in Computer Science with Georgia State University <br>
 
+<h3>👍 Best Projects </h3>
+- 👉 Galaxy Jump (2021): Made for a GSU school project. Powered by <a href="https://github.com/photonstorm/phaser">Phaser 3 for Javascript.</a> <br>
+- 👉 Android Group Chat app that supports multiple users w/ authentication/authorization, external login, conversation groups, and private messages. Set up with Google Firebase and Google Cloud Platform. <br>
+
 <h3>🚗 Hard Skills</h3> 
 - 👉 Java <br>
 - 👉 Python <br>
