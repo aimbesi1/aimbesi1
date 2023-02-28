@@ -2,16 +2,16 @@
 I like getting myself into all sorts of fields of computing, from web development and game programming to app devvelopment and machine learning. Sometimes I'll make a few personal projects as well.
 
 <h3>🔫 Currently Learning</h3>
-- &nbsp; Basic Cybersecurity through <a href="https://www.codepath.org/">CodePath</a>
-- &nbsp; Working towards Bachelor's Degree in Computer Science with Georgia State University
+- &nbsp; Basic Cybersecurity through <a href="https://www.codepath.org/">CodePath</a> <br>
+- &nbsp; Working towards Bachelor's Degree in Computer Science with Georgia State University <br>
 
 <h3>🚗 Hard Skills</h3> 
-- &nbsp; Java 
-- &nbsp; Python
-- &nbsp; Firebase, Dart, Flutter
-- &nbsp; Unity, C#
-- &nbsp; JavaScript
-- &nbsp; PHP, MySQL, HTML
+- Java <br>
+- Python <br>
+- Firebase, Dart, Flutter <br>
+- Unity, C# <br>
+- JavaScript <br>
+- PHP, MySQL, HTML <br>
 
 <h3> 🤝🏻 Contact Info </h3>
 
