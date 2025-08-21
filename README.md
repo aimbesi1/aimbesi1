@@ -3,7 +3,7 @@ I like getting myself into all sorts of fields of computing, from web developmen
 
 <h3>🔫 Currently Learning</h3>
 - 👉 Basic Cybersecurity through <a href="https://www.codepath.org/">CodePath</a> <br>
-- 👉 Working towards Master's Degree in Computer Science with Georgia State University <br>
+- 👉 Working towards Ph.D in Computer Science with Georgia State University <br>
 
 <h3>👍 Best Projects </h3>
 - 👉 Galaxy Jump (2021): Made for a GSU school project. Powered by <a href="https://github.com/photonstorm/phaser">Phaser 3 for Javascript.</a> <br>
